@@ -18,6 +18,10 @@ Atualmente, meu foco está em:
 - <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> React
 - <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> CSS3
 
+## 💻 Freelancer em Web Development
+
+Estou sempre aberto a novos desafios e oportunidades de desenvolvimento web. Se você procura um profissional para transformar suas ideias em realidade, [entre em contato](mailto:lucas.vhschunemann@gmail.com) para discutir como posso ajudar no seu próximo projeto.
+
 ## 🌐 Saiba mais sobre mim
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-von-helden-sch%C3%BCnemann-213590219/)
