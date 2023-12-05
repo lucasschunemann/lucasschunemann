@@ -20,6 +20,6 @@ Atualmente, meu foco está em:
 
 ## 🌐 Saiba mais sobre mim
 
-- [LinkedIn]([https://www.linkedin.com/in/seunome/](https://www.linkedin.com/in/lucas-von-helden-sch%C3%BCnemann-213590219/))
+- [LinkedIn](https://www.linkedin.com/in/lucas-von-helden-sch%C3%BCnemann-213590219/)
 
 Fique à vontade para explorar meu perfil e entre em contato. Vamos criar algo extraordinário juntos! 🚀
