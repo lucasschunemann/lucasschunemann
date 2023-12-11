@@ -1,6 +1,6 @@
 # 👋 Oi, sou o Lucas!
 
-Desenvolvedor Front-End apaixonado por transformar linhas de código em experiências incríveis. Atualmente, estou aprimorando minhas habilidades na [Evolutize Sistemas](https://evolutize.com.br) como DEV JR. e estudando Engenharia Front-End na [Escola Britânica de Artes Criativas e Tecnologia - EBAC](https://ebaconline.com.br).
+Desenvolvedor Front-End apaixonado por transformar linhas de código em experiências incríveis. Atualmente, estou aprimorando minhas habilidades na [Evolutize Sistemas](https://evolutize.com.br) como **DEV JR.** e estudando Engenharia Front-End na [Escola Britânica de Artes Criativas e Tecnologia - EBAC](https://ebaconline.com.br).
 
 ## 💼 Experiência Profissional
 
