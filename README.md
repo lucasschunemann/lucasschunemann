@@ -1,20 +1,20 @@
-# 👋 Olá, eu sou Lucas Von!
+# 👋 Hello, I'm Lucas Von.
 
-Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor Front-End com uma paixão por transformar ideias em realidade através da programação. Atualmente, estou aprimorando minhas habilidades na [Evolutize Sistemas](https://evolutize.com.br) como Desenvolvedor Júnior e expandindo meus conhecimentos em Engenharia Front-End na [Escola Britânica de Artes Criativas e Tecnologia - EBAC](https://ebaconline.com.br).
+Welcome to my GitHub profile, I'm a Front-End developer with a passion for turning ideas into reality through programming. Currently, I am honing my skills at [Evolutize Sistemas](https://evolutize.com.br) as a Junior Developer and expanding my knowledge in Front-End Engineering at [British School of Creative Arts and Technology - EBAC](https://ebaconline.com.br).
 
-## 💼 Experiência Profissional
+## 💼 Professional Experience
 
-- **Desenvolvedor Júnior**, [Evolutize Sistemas](https://evolutize.com.br)
-  - Trabalhando com tecnologias de ponta para criar soluções inovadoras.
+- **Junior Developer**, [Evolutize Sistemas](https://evolutize.com.br)
+  - Working with cutting-edge technologies to create innovative solutions.
 
-## 📚 Educação
+## 📚 Education
 
-- **Engenharia Front-End**, [EBAC](https://ebaconline.com.br)
-  - Estudando as mais recentes tecnologias e práticas do desenvolvimento front-end.
+- **Front-End Engineering**, [EBAC](https://ebaconline.com.br)
+  - Studying the latest technologies and practices in front-end development.
 
-## 🚀 Habilidades Técnicas
+## 🚀 Technical Skills
 
-Aqui estão algumas das tecnologias com as quais trabalho:
+Here are some of the technologies I work with:
 
 - <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> JavaScript
 - <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> React
@@ -23,10 +23,10 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 ## 💻 Freelancer
 
-Estou disponível para projetos freelance. Dê uma olhada no meu [portfólio](https://lucasvon.netlify.app) e sinta-se à vontade para [entrar em contato](mailto:lucas.vhschunemann@gmail.com) para discutirmos como posso ajudar no seu projeto.
+I am available for freelance projects. Take a look at my [portfolio](https://lucasvon.netlify.app) and feel free to [get in touch](mailto:lucas.vhschunemann@gmail.com) to discuss how I can help with your project.
 
-## 🌐 Conecte-se Comigo
+## 🌐 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-von-helden-sch%C3%BCnemann-213590219/)
 
-Fique à vontade para se conectar comigo no LinkedIn ou explorar meu portfólio. Estou sempre aberto a novas oportunidades e colaborações. Vamos criar algo incrível juntos! 🚀
+Feel free to connect with me on LinkedIn or explore my portfolio. I am always open to new opportunities and collaborations. Let's create something amazing together! 🚀
