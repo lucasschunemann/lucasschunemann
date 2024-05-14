@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Lucas Von.
 
-Welcome to my GitHub profile, I'm a Front-End developer with a passion for turning ideas into reality through programming. Currently, I am honing my skills at [Evolutize Sistemas](https://evolutize.com.br) as a Junior Developer and expanding my knowledge in Front-End Engineering at [British School of Creative Arts and Technology - EBAC](https://ebaconline.com.br).
+Welcome to my GitHub profile, I'm a Front-End developer with a passion for turning ideas into reality through programming. Currently, I am honing my skills at [Evolutize Sistemas](https://evolutize.com.br) as a Front-End Developer and expanding my knowledge in Front-End Engineering at [British School of Creative Arts and Technology - EBAC](https://ebaconline.com.br).
 
 ## 💼 Professional Experience
 
-- **Junior Developer**, [Evolutize Sistemas](https://evolutize.com.br)
+- **Front-End Developer**, [Evolutize Sistemas](https://evolutize.com.br)
   - Working with cutting-edge technologies to create innovative solutions.
 
 ## 📚 Education
