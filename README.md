@@ -23,8 +23,8 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo:
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucasschunemann&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasschunemann&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucasschunemann&show_icons=true&theme=graywhite)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasschunemann&layout=compact&theme=graywhite)
 
 ## 💻 Projetos e Freelancer
 
