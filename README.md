@@ -1,32 +1,49 @@
-# 👋 Hello, I'm Lucas Von.
+# 👋 Olá, eu sou Lucas Von
 
-Welcome to my GitHub profile, I'm a Front-End developer with a passion for turning ideas into reality through programming. Currently, I am honing my skills at [Evolutize Sistemas](https://evolutize.com.br) as a Front-End Developer and expanding my knowledge in Front-End Engineering at [British School of Creative Arts and Technology - EBAC](https://ebaconline.com.br).
+Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor Front-End apaixonado por transformar ideias em realidade através da programação. Atualmente, estou aprimorando minhas habilidades na [Evolutize Sistemas](https://evolutize.com.br) e expandindo meu conhecimento em Engenharia de Front-End na [Escola Britânica de Artes Criativas e Tecnologia - EBAC](https://ebaconline.com.br).
 
-## 💼 Professional Experience
+![Banner](https://user-images.githubusercontent.com/xxxxxx/xxxxx/banner.png)
 
-- **Front-End Developer**, [Evolutize Sistemas](https://evolutize.com.br)
-  - Working with cutting-edge technologies to create innovative solutions.
+## 💼 Experiência Profissional
 
-## 📚 Education
+- **Desenvolvedor Front-End**, [Evolutize Sistemas](https://evolutize.com.br)
+  - Criando soluções inovadoras com tecnologias de ponta.
 
-- **Front-End Engineering**, [EBAC](https://ebaconline.com.br)
-  - Studying the latest technologies and practices in front-end development.
+## 📚 Educação
 
-## 🚀 Technical Skills
+- **Engenharia de Front-End**, [EBAC](https://ebaconline.com.br)
+  - Estudando as últimas tecnologias e práticas em desenvolvimento front-end.
 
-Here are some of the technologies I work with:
+## 🚀 Habilidades Técnicas
 
-- <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> JavaScript
-- <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> React
-- <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> CSS3
-- <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> VueJS
+Aqui estão algumas das tecnologias com as quais trabalho:
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+</p>
+
+## 📊 Minhas Contribuições
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasVon&show_icons=true&theme=radical" alt="Lucas Von's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVon&layout=compact&theme=radical" alt="Top Langs" />
+</div>
+
+## 📈 Atividades Recentes
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasVon&theme=radical" alt="Lucas Von's Streak" />
+</p>
 
 ## 💻 Freelancer
 
-I am available for freelance projects. Take a look at my [portfolio](https://lucasvon.netlify.app) and feel free to [get in touch](mailto:lucas.vhschunemann@gmail.com) to discuss how I can help with your project.
+Estou disponível para projetos freelance. Confira meu [portfólio](https://lucasvon.netlify.app) e sinta-se à vontade para [entrar em contato](mailto:lucas.vhschunemann@gmail.com) para discutir como posso ajudar no seu projeto.
 
-## 🌐 Connect With Me
+## 🌐 Conecte-se Comigo
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-von-helden-sch%C3%BCnemann-213590219/)
 
-Feel free to connect with me on LinkedIn or explore my portfolio. I am always open to new opportunities and collaborations. Let's create something amazing together! 🚀
+Sinta-se à vontade para se conectar comigo no LinkedIn ou explorar meu portfólio. Estou sempre aberto a novas oportunidades e colaborações. Vamos criar algo incrível juntos! 🚀
