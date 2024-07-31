@@ -21,9 +21,10 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo:
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📊 Atividades Recentes
+## 📊 Estatísticas do GitHub
 
-- **Commits Totais**: ![Commits](https://img.shields.io/badge/dynamic/json?color=blue&label=Commits&query=%24[0].commit_count&url=https://api.github.com/repos/lucasschunemann/lucasschunemann)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucasschunemann&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasschunemann&layout=compact&theme=radical)
 
 ## 💻 Projetos e Freelancer
 
