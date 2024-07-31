@@ -1,49 +1,41 @@
-# 👋 Olá, eu sou Lucas Von
+# 👋 Olá, eu sou Lucas Von Helden Schünemann
 
 Bem-vindo ao meu perfil GitHub! Sou um desenvolvedor Front-End apaixonado por transformar ideias em realidade através da programação. Atualmente, estou aprimorando minhas habilidades na [Evolutize Sistemas](https://evolutize.com.br) e expandindo meu conhecimento em Engenharia de Front-End na [Escola Britânica de Artes Criativas e Tecnologia - EBAC](https://ebaconline.com.br).
-
-![Banner](https://user-images.githubusercontent.com/xxxxxx/xxxxx/banner.png)
 
 ## 💼 Experiência Profissional
 
 - **Desenvolvedor Front-End**, [Evolutize Sistemas](https://evolutize.com.br)
-  - Criando soluções inovadoras com tecnologias de ponta.
+  - Trabalho com tecnologias modernas para desenvolver soluções inovadoras e intuitivas.
 
 ## 📚 Educação
 
 - **Engenharia de Front-End**, [EBAC](https://ebaconline.com.br)
-  - Estudando as últimas tecnologias e práticas em desenvolvimento front-end.
+  - Estudo das últimas práticas e tecnologias no desenvolvimento front-end.
 
 ## 🚀 Habilidades Técnicas
 
-Aqui estão algumas das tecnologias com as quais trabalho:
+Aqui estão algumas das tecnologias e ferramentas que utilizo:
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
-</p>
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📊 Minhas Contribuições
+## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasVon&show_icons=true&theme=radical" alt="Lucas Von's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVon&layout=compact&theme=radical" alt="Top Langs" />
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucasschunemann&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasschunemann&layout=compact&theme=radical)
 
-## 📈 Atividades Recentes
+## 💻 Projetos e Freelancer
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasVon&theme=radical" alt="Lucas Von's Streak" />
-</p>
-
-## 💻 Freelancer
-
-Estou disponível para projetos freelance. Confira meu [portfólio](https://lucasvon.netlify.app) e sinta-se à vontade para [entrar em contato](mailto:lucas.vhschunemann@gmail.com) para discutir como posso ajudar no seu projeto.
+Estou disponível para projetos freelance! Se você está procurando por alguém para transformar suas ideias em realidade, dê uma olhada no meu [portfólio](https://lucasvon.netlify.app) e sinta-se à vontade para [entrar em contato](mailto:lucas.vhschunemann@gmail.com). Vamos discutir como posso ajudar a tornar seu projeto incrível.
 
 ## 🌐 Conecte-se Comigo
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-von-helden-sch%C3%BCnemann-213590219/)
 
-Sinta-se à vontade para se conectar comigo no LinkedIn ou explorar meu portfólio. Estou sempre aberto a novas oportunidades e colaborações. Vamos criar algo incrível juntos! 🚀
+Estou sempre aberto a novas conexões e oportunidades. Vamos criar algo incrível juntos! 🚀
+
+---
+
+Obrigado por visitar meu perfil GitHub! Sinta-se à vontade para explorar meus repositórios e ver o que estou trabalhando atualmente.
