@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil! Sou Lucas Von Helden Schünemann, um <strong>Project De
 
 Atuando tanto no design quanto no desenvolvimento front-end, busco colaborar com equipes para criar soluções inovadoras e centradas no usuário.
 
-Se você está procurando alguém para transformar suas ideias em realidade, dê uma olhada no meu <a href="https://lucasvon.netlify.app" target="_blank">portfólio</a> e fique à vontade para <a href="mailto:lucas.vhschunemann@gmail.com">entrar em contato</a>. Vamos discutir como posso ajudar a tornar seu projeto incrível.
+Se você está procurando alguém para transformar suas ideias em realidade, dê uma olhada no meu <a href="https://lucasvon.framer.website/" target="_blank">portfólio</a> e fique à vontade para <a href="mailto:lucas.vhschunemann@gmail.com">entrar em contato</a>. Vamos discutir como posso ajudar a tornar seu projeto incrível.
 </p>
 
 ## 🚀 Habilidades Técnicas:
