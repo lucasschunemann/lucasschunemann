@@ -1,43 +1,23 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> 
+### Lucas Von Helden Schünemann
 
-## <p align="center"> Olá! Que bom ver você por aqui. 👋 </p>
+design e outras lentidões.
 
-<p>
-Bem-vindo ao meu perfil! Sou Lucas Von Helden Schünemann, um <strong>Project Designer</strong> com paixão por criar experiências digitais impactantes e intuitivas. Atualmente, trabalho na <a href="https://www.areacentral.com.br/" target="_blank">Área Central</a>, onde aplico minhas habilidades em design e desenvolvimento para transformar ideias em realidade.
+---
 
-Atuando tanto no design quanto no desenvolvimento front-end, busco colaborar com equipes para criar soluções inovadoras e centradas no usuário.
+Sou designer de produto, mais focado em UX/UI. Moro em Blumenau, SC.
 
-Se você está procurando alguém para transformar suas ideias em realidade, dê uma olhada no meu <a href="https://lucasvon.framer.website/" target="_blank">portfólio</a> e fique à vontade para <a href="mailto:lucas.vhschunemann@gmail.com">entrar em contato</a>. Vamos discutir como posso ajudar a tornar seu projeto incrível.
-</p>
+No momento divido o tempo entre dois lugares. Sou co-fundador e CTO da [Neth!](https://somosneth.com), uma plataforma brasileira de conteúdo e serviços em saúde e bem-estar — cuido de direção de produto, prototipação no Figma, validação de UX e da gestão do desenvolvimento, que é tocado por um time terceirizado. E em paralelo trabalho remoto full-time como designer, mexendo com produtos B2B, pesquisa, jornadas e interface na [Área Central](https://www.areacentral.com.br).
 
-## 🚀 Habilidades Técnicas:
-[![My Skills](https://skillicons.dev/icons?i=figma,framer,vue,react,js,css)](https://skillicons.dev)
+Gosto de processos honestos: entender o problema antes de desenhar, validar com gente de verdade, e entregar coisas que funcionam mesmo fora da tela. Tenho preferência por estética crua, tipografia bem escolhida e interfaces que respeitam o tempo de quem usa.
 
-## 🛠️ Ferramentas e Tecnologias:
-[![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
+Fora do trabalho: badminton, viagem, Bad Omens no fone.
 
-## 👥 Experiência Profissional:
-- **Project Designer**, <a href="https://www.areacentral.com.br/" target="_blank">Área Central</a> (desde Setembro 2023)  
-  - Colaboro com equipes multidisciplinares para criar soluções de design inovadoras e centradas no usuário.
+---
 
-- **Desenvolvedor Front-End**, <a href="https://evolutize.com.br" target="_blank">Evolutize Sistemas</a>  
-  - Desenvolvi soluções inovadoras e intuitivas usando tecnologias front-end.
+**Onde me achar**
 
-## 📚 Educação:
-- **Engenharia de Front-End**, <a href="https://ebaconline.com.br" target="_blank">EBAC</a>  
-  - Estudo das últimas práticas e tecnologias no desenvolvimento front-end.
+- portfólio — [lucasvon.framer.website](https://lucasvon.framer.website/)
+- linkedin — [/in/lucas-von-helden-schünemann](https://www.linkedin.com/in/lucas-von-helden-sch%C3%BCnemann-213590219/)
+- email — lucas.vhschunemann@gmail.com
 
-## 💼 Projetos e Freelancer:
-Estou disponível para projetos freelance de design e desenvolvimento front-end. Se precisar de ajuda para transformar suas ideias, é só me chamar! 😊
-
-## 🌐 Conecte-se Comigo:
-[![Linkedin](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-von-helden-sch%C3%BCnemann-213590219/)](https://www.linkedin.com/in/lucas-von-helden-sch%C3%BCnemann-213590219/)  
-[![Gmail Badge](https://img.shields.io/badge/-lucas.vhschunemann@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.vhschunemann@gmail.com)](mailto:lucas.vhschunemann@gmail.com)
-
-<div align="center">
-  <h3><b>📍 Contagem de Visitantes no Perfil</b></h3>
-</div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/lucasvhschunemann/count.svg" alt="Contagem de visitantes no perfil" />
-</p>
+Aberto a conversas sobre projetos, parcerias ou só pra trocar ideia sobre design.
