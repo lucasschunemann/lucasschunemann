@@ -10,8 +10,6 @@ No momento divido o tempo entre dois lugares. Sou co-fundador e CTO do [neth!](h
 
 Gosto de processos onde posso entender o problema antes de desenhar, validar com gente de verdade, e entregar coisas que funcionam mesmo fora da tela. Tenho preferência por estética crua, tipografia bem escolhida e interfaces que respeitam o tempo de quem usa.
 
-Fora do trabalho: badminton, viagem, Bad Omens no fone.
-
 ---
 
 **Onde me achar**
